@@ -5,4 +5,4 @@ install:
         - javac FirstTest.java
 
 script:
-        - java -ea FirstTest
+        - java -ea FirstTes
