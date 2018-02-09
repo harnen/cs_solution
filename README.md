@@ -6,4 +6,5 @@ Includes a source code (Calculator.java) and a test code FirstTest.java.
 The yaml script automatically runs the test code on a Docker image and stores 
 the result on the github.  
 
-See: https://gitlab.com/oascigil/contract-software-test/pipelines
+To check the build status use `curl -H "Travis-API-Version: 3" -H "User-Agent: API Explorer"  https://api.travis-ci.org/build/28865802`
+
